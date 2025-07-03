@@ -13,4 +13,4 @@ Este repositorio contiene herramientas y notebooks desarrollados para la simulac
 
 A continuación se muestra un fotograma de ejemplo extraído del video `output_video`, que representa la salida generada por el sistema de análisis de tráfico:
 
-![Frame de salida](output/output_video.mp4)
+![Frame de salida](Videos/output_video.gif)
