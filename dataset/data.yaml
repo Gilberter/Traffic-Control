@@ -1,0 +1,4 @@
+train: images/train
+val: images/val
+nc: 8
+names: ['Car', 'Truck', 'Bus', 'Motorcycle', 'Pedestrian', 'TrafficLightRed', 'TrafficLightGreen', 'TrafficLightYellow']
